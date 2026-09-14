@@ -1,4 +1,4 @@
-import photo1 from "./assets/_DSC6878.jpg";
+import photo1 from "./assets/_DSC6878.JPG";
 import photo2 from "./assets/A7400062.jpg";
 import photo3 from "./assets/kj.jpeg";
 import photo4 from "./assets/k.jpeg";
